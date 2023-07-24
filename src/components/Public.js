@@ -24,6 +24,9 @@ const Public = () => {
         </address>
         <br />
         <p>Owner: Dan Davidson</p>
+            <p> To test the app use: </p>
+            <p>username: Akash</p>
+            <p>Password: v123456</p>
       </main>
       <footer>
         <Link to="/login">Employee Login</Link>
